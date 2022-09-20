@@ -4,7 +4,8 @@ arquivo de exmeplo para o treinamento
 
 ## Subtitulo novo
 
-VERSION asfasd
+VERSION asfasd123
+VERSION asfasd123
 
 outro push foi agora new branch 2
 
